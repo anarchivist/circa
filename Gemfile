@@ -115,4 +115,5 @@ group :development, :test do
   gem 'capistrano-linked-files', require: false
 
   gem 'quiet_assets'
+  gem 'solr_wrapper'
 end
